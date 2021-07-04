@@ -233,7 +233,7 @@ namespace TKO_lab
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-			System.Diagnostics.Process.Start("https://github.com/maxpe3447/");
+			System.Diagnostics.Process.Start("https://github.com/maxpe3447/TKO-lab-2.0");
         }
 
         private void bCalc_Click(object sender, EventArgs e)
