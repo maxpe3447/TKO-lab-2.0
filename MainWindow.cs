@@ -205,7 +205,6 @@ namespace TKO_lab
 			GadjetForm gForm = new GadjetForm();
 			gForm.Show();
 			
-			gForm.pictureBox1.Image = Image.FromFile("D:/C#/TKO_lab/ICO/gadjet.jpg");
 			gForm.pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
 
 			gForm.lInfo.Font = new System.Drawing.Font("Consolas", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
